@@ -1,3 +1,3 @@
 # ChristmasTree
-## create your own Christmas Treeee
+create your own Christmas Tree
 
